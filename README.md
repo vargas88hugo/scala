@@ -1,6 +1,6 @@
 # Scala Practice
-This is my first practice of Scala. Contain differents sources and documentation
+This is my practice of Scala. Contain differents sources and documentation
 ## Content
 | Folder | Description |
 |--------|-------------|
-| official-docs | Practice about Prelude: Taste of Scala of the official documentation |
+| official-docs | Practice about "Prelude: Taste of Scala of the official documentation" |
